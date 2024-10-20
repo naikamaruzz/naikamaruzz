@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naikamaruzz
 - 👀 I’m interested in programming
-- 🌱 I’m currently expanding my knowledge in software engineering, with a focus on web development
+- 🌱 I’m currently expanding my knowledge in software engineering, with a focus on web development and app development with new technology
 - 💞️ I’m looking to collaborate on exciting projects like open-source software, mobile apps
 - 📫 Feel free to reach me via LinkedIn [www.linkedin.com/in/nabiha-kamaruzzaman-6239b5256]
 - 😄 Pronouns: she/her
